@@ -2,6 +2,8 @@
 
 Welcome to the Payment System API documentation. This API allows the receiver to be in control of the payment process by manually approving received payments.
 
+![Sample Image](https://github.com/Levi-Chinecherem/payment-system-api/blob/main/static/sample.png)
+
 ## API Endpoints
 
 ### 1. Retrieve the Most Recently Added USDT TRC20 Payment Details
